@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>欢迎加入{EntryText}分享平台[{SystemName}]</title>
+	<contents xml:space="preserve">
+{UserName}
+
+非常感谢您的注册。
+请点击下面的URL完成剩下的注册处理。
+
+{URL}
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+※请在60分钟以内完成注册，否则本邮件将会失效。
+
+	</contents>
+
+</mail>
+
+

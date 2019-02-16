@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>Information from [{SystemName}]</title>
+	<contents xml:space="preserve">
+Dear {UserName}
+
+We registered with the {SystemName}, thank you.
+Registration confirmation is completed by the administrator, to be able to sign in
+Because now I will contact you.
+
+{URL}
+
+When you sign in, add new {EntryText} and, to the{EntryText}
+I will be able to add comments.
+
+------------------------------------------
+ This e-mail has been sent automatically from the system.
+ Please understand that it can not reply to this email.
+	</contents>
+
+</mail>
+
+

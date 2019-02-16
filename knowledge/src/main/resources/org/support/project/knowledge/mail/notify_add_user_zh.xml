@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>[{SystemName}] 用户注册(通知)</title>
+	<contents xml:space="preserve">
+用户注册成功。请确认以下信息。
+
+用户ID: {UserId}
+姓名: {UserName}
+邮箱: {UserMail}
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+	</contents>
+
+</mail>
+
+

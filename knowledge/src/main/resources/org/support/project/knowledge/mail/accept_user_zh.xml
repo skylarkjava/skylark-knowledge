@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>邀请加入{SystemName}-{EntryText}的分享平台</title>
+	<contents xml:space="preserve">
+{UserName}
+
+非常感谢您的注册。
+您的注册已经获得系统承认，您现在可以登录{SystemName} 。
+
+{URL}
+
+登录之后，您可以添加{EntryText}，参与评论。
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+	</contents>
+
+</mail>
+
+

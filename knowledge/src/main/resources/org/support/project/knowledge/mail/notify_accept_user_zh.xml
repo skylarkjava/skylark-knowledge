@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>[{SystemName}] 等待承认的用户(通知)</title>
+	<contents xml:space="preserve">
+有新的注册用户正在等待承认。
+请去管理员页面确认。
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+	</contents>
+
+</mail>
+
+

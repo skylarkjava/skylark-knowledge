@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>{EntryText}共有のサービス[{SystemName}]へのご招待</title>
+	<contents xml:space="preserve">
+{UserName} 様
+
+{SystemName}に登録いただき、ありがとうございます。
+以下のURLにアクセスすることで登録が完了します。
+お手数ですが、以下のリンクからアクセス願います。
+
+{URL}
+
+------------------------------------------
+※本メールはシステムより自動で送信されています。
+ このメールに対する返信は出来ませんので御了承ください。
+※60分以内に登録いただけない場合、登録は無効となります。
+
+	</contents>
+
+</mail>
+
+

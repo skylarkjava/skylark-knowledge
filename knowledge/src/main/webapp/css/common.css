@@ -1,0 +1,188 @@
+body {
+	padding-top: 70px;
+}
+
+/* ------------------------------------- /
+/    Footer
+/* ------------------------------------- */
+#footer {
+	text-align: center;
+	padding: 20px 0;
+	margin-top: 60px;
+	background-color: #7E7E7E;
+	color: #cccccc;
+}
+
+/*  nav
+/*--------------------------------- */
+#footer .footer-menu>li {
+	border-right: 1px solid #000;
+}
+
+#footer .footer-menu>li.first {
+	border-left: 1px solid #000;
+}
+
+#footer .footer-menu li a {
+	color: #cccccc;
+}
+
+#footer .footer-menu li a:hover {
+	color: #fff;
+}
+#footer a {
+	color: #cccccc;
+}
+
+#footer a:hover {
+	color: #fff;
+}
+
+
+/*  Copyright
+/*--------------------------------- */
+.copy {
+	margin-top: 0px;
+}
+
+.title {
+	text-align: left;
+/* 	padding: 10px; */
+	margin-bottom: 16px;
+/* 	font-size: 18px;*/
+	font-size: 32px;
+/* 	border-bottom: 3px dotted #7E7E7E;*/
+ }
+
+
+.sub_title {
+	text-align: left;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 16px;
+	border-bottom: 1px dashed #7E7E7E;
+}
+
+/*  navbar
+/*--------------------------------- */
+.nav .navButton {
+	margin: 5px;
+	height: 50px;
+	vertical-align: middle;
+	color: white;
+}
+#navAddButtonLink,#navListButtonLink,#navMenuButtonLink {
+	padding-top: 14px;
+	color: white;
+}
+.navbar-default .navbar-nav > .navAddButton > a,
+.navbar-default .navbar-nav > .navAddButton > a:hover,
+.navbar-default .navbar-nav > .navAddButton > a:focus {
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	height: 50px;
+	background: #009900;
+}
+.navbar-default .navbar-nav > .navListButton > a,
+.navbar-default .navbar-nav > .navListButton > a:hover,
+.navbar-default .navbar-nav > .navListButton > a:focus {
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	height: 50px;
+	background: #999900;
+}
+.navbar-nav > .dropdown .dropdown-toggle {
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	height: 50px;
+}
+.navbar-default .navbar-nav > .navMenuButton > a,
+.navbar-default .navbar-nav > .navMenuButton > a:hover,
+.navbar-default .navbar-nav > .navMenuButton > a:focus {
+	background: #cccccc;
+}
+.navbar-default .navbar-nav > .navLoginedMenuButton > a,
+.navbar-default .navbar-nav > .navLoginedMenuButton > a:hover,
+.navbar-default .navbar-nav > .navLoginedMenuButton > a:focus {
+	background: #0099cc;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	background: #ff9966;
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	#navSearch {
+		width: 200px;
+	}
+}
+@media screen and (min-width: 992px) {
+	#navSearch {
+		width: 350px;
+	}
+}
+.navbar .navbar-header .navbar-brand:hover{
+	color: white;
+}
+
+
+.menu_list li {
+	margin-top: 10px;
+}
+
+.selectit { background-color: green; }
+.container .btn-group .active { background-color : red }
+
+label.radio-inline, label.checkbox-inline {
+  background-color: #428bca;
+}
+
+label.radio-inline, label.checkbox-inline {
+  background-color: #428bca;
+  border-color:#357ebd;
+  border:1px solid transparent;
+  border-radius:4px;
+  cursor: pointer;
+/*  font-weight: 400;*/
+  margin-bottom: 3px !important;
+/*  margin-right: 1%; */
+  margin-left:0;
+  padding: 10px 10px 10px 30px;
+}
+label.radio-inline.checked, label.checkbox-inline.checked {
+  background-color: red;
+  color: #fff !important;
+  text-shadow: 1px 1px 2px #000 !important;
+}
+.checkbox-inline + .checkbox-inline, .radio-inline + .radio-inline {
+  margin-left: 0;
+}
+.columns label.radio-inline, .columns label.checkbox-inline {
+/*  min-width: 190px;*/
+  vertical-align: top;
+/*  width: 20%; */
+}
+.additional-info-wrap {
+  display: inline-block;
+/*  margin: 0 2% 0 0; */
+/*  min-width: 190px; */
+  position: relative;
+  vertical-align: top;
+/*  width: 30%; */
+}
+.additional-info-wrap label.checkbox-inline, .additional-info-wrap label.radio-inline {
+  width: 100% !important;
+}
+.additional-info-wrap .additional-info {
+  background-color: #266c8e;
+  clear: both;
+  color: #fff !important;
+  margin-top: -10px;
+  padding: 0 10px 10px;
+  text-shadow: 1px 1px 2px #000 !important;
+  width: 100%;
+}

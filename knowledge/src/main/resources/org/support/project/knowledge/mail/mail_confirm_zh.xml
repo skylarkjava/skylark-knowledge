@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>[{SystemName}] 邮件地址确认</title>
+	<contents xml:space="preserve">
+
+{UserName}
+
+此邮件的目的是确认您登录的邮件地址是否有效。
+请点击下面的URL，提交给我们进行确认。
+确认完成后、您登录的新邮件地址将开始生效。
+
+{URL}
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+	</contents>
+
+</mail>
+
+

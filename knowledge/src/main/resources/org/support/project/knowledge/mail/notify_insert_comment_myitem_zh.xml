@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>[{SystemName}] 您添加的知识有新的评论 {KnowledgeId} - {KnowledgeTitle}</title>
+	<contents xml:space="preserve">
+
+您添加的知识有新评论了：{KnowledgeId}
+
+{URL}
+
+------------------------------------------
+{CommentInsertUser}
+
+{CommentContents}
+
+------------------------------------------
+{KnowledgeTitle}
+
+{Contents}
+
+
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+
+	</contents>
+
+</mail>
+
+

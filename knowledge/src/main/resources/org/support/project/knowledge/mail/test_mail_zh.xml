@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>[{SystemName}] 测试邮件</title>
+	<contents xml:space="preserve">
+
+这是个测试邮件
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+	</contents>
+
+</mail>
+
+

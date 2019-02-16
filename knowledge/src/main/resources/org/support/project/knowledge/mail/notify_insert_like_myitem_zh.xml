@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>[{SystemName}] 点赞通知 {KnowledgeId} - {KnowledgeTitle}</title>
+	<contents xml:space="preserve">
+
+下面的{EntryText}有新点赞。
+
+{URL}
+
+------------------------------------------
+{KnowledgeTitle}
+
+{Contents}
+
+------------------------------------------
+※此邮件由系统自动发送，请勿回复本邮件 。
+
+
+	</contents>
+
+</mail>
+
+

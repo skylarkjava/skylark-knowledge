@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+	<title>Information from [{SystemName}]</title>
+	<contents xml:space="preserve">
+Dear {UserName}
+
+We registered with the {SystemName}, thank you.
+Registration is completed by accessing the following URL.
+Sorry to trouble you, but please access from the following link.
+
+{URL}
+
+------------------------------------------
+ This e-mail has been sent automatically from the system.
+ Please understand that it can not reply to this email.
+
+ If you do not register within 60 minutes, the registration will be invalid.
+
+	</contents>
+
+</mail>
+
+
